@@ -1,0 +1,16 @@
+{
+  "name": "learnings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tsx decorators.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tsx": "^4.20.3"
+  }
+}

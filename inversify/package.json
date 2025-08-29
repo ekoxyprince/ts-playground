@@ -1,0 +1,20 @@
+{
+  "name": "inversify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx dep.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.20.3"
+  },
+  "dependencies": {
+    "inversify": "^7.0.0-alpha.5",
+    "reflect-metadata": "^0.2.2"
+  }
+}
